@@ -10,7 +10,7 @@
 ![在 Steam 中打开游戏根目录](/docs/SeaEpoch@2025-Nov-13-220613734.jpg)
 ![替换文件](/docs/SeaEpoch@2025-Nov-13-220921354.jpg)
 
-## 如何下载？
+## 👀如何下载？
 
 👉[点击此处](https://github.com/SeaEpoch/Helltaker-Chinese/releases)👈获取最新的汉化包。
 
